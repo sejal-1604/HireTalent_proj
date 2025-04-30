@@ -52,10 +52,8 @@ Whether you're a startup or a growing enterprise, Prompt-to-Hire centralizes you
 | **Frontend**  | React, Tailwind CSS                 |
 | **Backend**   | Firebase (Auth, Firestore, Storage) |
 | **AI Support**| OpenAI API (GPT-3.5)                |
-| **Calendar**  | Google Calendar API / Calendly      |
+| **Calendar**  | Google Calendar API       |
 | **Emailing**  | EmailJS or Firebase Functions       |
-| **PDF Tools** | html2pdf.js / PDFKit (Offer Letters) |
+| **PDF Tools** | html2pdf.js |
 
----
 
-Made by me and my ai buddy 
