@@ -1,4 +1,4 @@
-# 🚀 Hire Talk: AI-Powered Hiring Platform
+# 🚀 Hire Talent: AI-Powered Hiring Platform
 
 is a fast, efficient, and intelligent hiring management platform built for modern teams. It streamlines the entire recruitment process — from job posting to candidate selection — with the help of AI, automation, and an intuitive dashboard. Designed to reduce friction, save time, and bring transparency into every stage of hiring.
 
