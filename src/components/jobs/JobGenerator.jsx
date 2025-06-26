@@ -20,8 +20,8 @@ import {
 } from '@/components/ui/select';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { File } from 'lucide-react';
-import { useJobActions } from '@/hooks/use-job-actions';
-import { useAuth } from '@/contexts/AuthContext';
+import { useJobActions } from '@/hooks/use-job-actions.js';
+import { useAuth } from '@/Context/AuthContext';
 import { toast } from 'sonner';
 
 export function JobGenerator() {

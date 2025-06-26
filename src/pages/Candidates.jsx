@@ -21,7 +21,7 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Search, CheckCheck, MoreHorizontal } from 'lucide-react';
-import { useAuth } from '../context/AuthContext';
+import { useAuth } from '../Context/AuthContext';
 import { applicationsService } from '../services/applications';
 import { useToast } from '@/hooks/use-toast';
 

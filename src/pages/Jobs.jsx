@@ -12,7 +12,7 @@ import {
 } from '@/components/ui/table';
 import { Badge } from '@/components/ui/badge';
 import { Search, Plus } from 'lucide-react';
-import { useAuth } from '../context/AuthContext';
+import { useAuth } from '../Context/AuthContext';
 import { jobsService } from '../services/jobs';
 import { applicationsService } from '../services/applications';
 import { useToast } from '@/hooks/use-toast';

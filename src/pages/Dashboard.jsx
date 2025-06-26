@@ -3,7 +3,7 @@ import { StatCard } from '@/components/dashboard/StatCard';
 import { RecentApplications } from '@/components/dashboard/RecentApplications';
 import { UpcomingInterviews } from '@/components/dashboard/UpcomingInterviews';
 import { User, File, Calendar, CheckCheck } from 'lucide-react';
-import { useAuth } from '../context/AuthContext';
+import { useAuth } from '../Context/AuthContext';
 import { jobsService } from '../services/jobs';
 import { applicationsService } from '../services/applications';
 
